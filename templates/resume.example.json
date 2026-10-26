@@ -1,0 +1,73 @@
+{
+  "name": "Alex Chen",
+  "contact": ["555-010-2233", "alex.chen@example.com", "linkedin.com/in/alexchen-example", "github.com/alexchen-example"],
+  "sections": [
+    {
+      "title": "Education",
+      "entries": [
+        {
+          "org": "Westfield University",
+          "location": "Chicago, IL",
+          "title": "Master of Science in Computer Science",
+          "dates": "Expected Dec 2027",
+          "lines": ["Relevant Coursework: Machine Learning, Data Mining, Experiment Design, Database Systems"]
+        },
+        {
+          "org": "Lakeview University",
+          "location": "Austin, TX",
+          "title": "Bachelor of Science in Statistics",
+          "dates": "May 2019",
+          "lines": ["Honors: Dean's List (6 semesters)"]
+        }
+      ]
+    },
+    {
+      "title": "Experience",
+      "entries": [
+        {
+          "org": "Brightline Software",
+          "location": "Austin, TX",
+          "title": "Product Manager",
+          "dates": "Aug 2021 – Jul 2025",
+          "bullets": [
+            "Launched shared team calendars for a scheduling app, growing weekly active teams from 1,200 to 4,800 in 6 months",
+            "Cut support tickets about exports by 35% by redesigning the share-and-export flow with design and engineering",
+            "Ran 9 A/B tests on the checkout page, raising paid conversion from 3.1% to 4.0%"
+          ]
+        },
+        {
+          "org": "Brightline Software",
+          "location": "Austin, TX",
+          "title": "Product Analyst",
+          "dates": "Jun 2019 – Jul 2021",
+          "bullets": [
+            "Built weekly retention dashboards used by 4 product teams to set quarterly goals",
+            "Analyzed billing data for 2,000 accounts to find the top 3 reasons for cancellations"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Projects",
+      "entries": [
+        {
+          "org": "Campus Pickup (class project)",
+          "location": "Chicago, IL",
+          "title": "Product lead, team of 4",
+          "dates": "Jan 2026 – Apr 2026",
+          "bullets": [
+            "Designed a dining-hall order pickup app and tested it with 40 students over 3 weeks"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "lines": [
+        "Product: A/B testing, PRDs, roadmapping, funnel analysis",
+        "Data & Tools: SQL, Python (pandas), Tableau, Figma, Jira",
+        "Languages: Spanish (fluent)"
+      ]
+    }
+  ]
+}
