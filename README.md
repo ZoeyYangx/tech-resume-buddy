@@ -8,16 +8,32 @@ It also formats the resume in a standard one-page US layout, converts Chinese re
 
 It works for product management, software engineering, data, machine learning, UX and technical program management roles, and for students as well as people with full-time experience.
 
+## Example
+
+A data analyst with 6 years of experience applies for a Senior Data Analyst role. The person, companies and job are fictional.
+
+| 1. The resume they start with | 2. The job they want |
+|---|---|
+| ![Original resume](docs/1-original.png) | ![Job posting](docs/2-job-posting.png) |
+| **3. First reply: preview with placeholders** | **4. After their answers: tailored to the job** |
+| ![Preview](docs/3-preview.png) | ![Tailored resume](docs/4-tailored.png) |
+
+**1 → 3: general rewrite.**
+- Objective, soft-skill list, home address and "References available upon request" are removed.
+- Duty lines ("Responsible for…", "Helped with…") are rewritten as what Jordan did and what happened.
+- Facts the original doesn't have, such as numbers, results or links, are left as yellow placeholders. Nothing is guessed.
+- Experience comes before Education, because Jordan is not a student.
+
+**3 → 4: filled in and tailored to the posting.**
+- Jordan answers the placeholder questions (for example, the A/B tests raised the self-service rate from 41% to 52%).
+- The posting asks first for A/B testing and self-serve dashboards, so those bullets move to the top, and the marketing campaign work moves up for "lifecycle analytics".
+- A short summary is added, since Jordan has several years of experience.
+- Not added: payments experience, dbt and Looker. Jordan doesn't have them, so they are reported as gaps instead of being written in.
+
 ## How it works
 
 **1. Share your resume. Get a preview right away.**
 Upload your resume (PDF, Word, or pasted text, in English or Chinese). The first reply is a PDF preview in a clean one-page layout, with the bullets already rewritten. Anything it doesn't know yet, such as a number, a tool or a date, is left as a highlighted placeholder instead of being made up.
-
-| Preview with placeholders | Final version |
-|---|---|
-| ![Preview](docs/preview.png) | ![Final](docs/final.png) |
-
-<sub>Example resume is fictional.</sub>
 
 **2. Fill in the gaps and add a job posting.**
 It asks short questions to fill in the placeholders. Then it asks for the posting of a specific job you want to apply to, because tailoring only works against a real target.

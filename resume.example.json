@@ -1,0 +1,108 @@
+{
+ "name": "Jordan Rivera",
+ "contact": [
+  "614-555-0148",
+  "jordan.rivera@example.com",
+  "linkedin.com/in/jordanrivera-example",
+  "github.com/jrivera-example"
+ ],
+ "sections": [
+  {
+   "title": "Summary",
+   "text": "Data analyst with 6 years of experience in SQL, Python and A/B testing. Designs experiments and self-serve dashboards that product and operations teams use to make weekly decisions."
+  },
+  {
+   "title": "Experience",
+   "entries": [
+    {
+     "org": "Bluewater Logistics",
+     "location": "Columbus, OH",
+     "title": "Data Analyst II",
+     "dates": "Jan 2024 – Present",
+     "bullets": [
+      "Co-design and analyze A/B tests on the customer portal with the product team; across 3 tests, a redesigned tracking page raised the self-service rate from 41% to 52%",
+      "Analyze 2M+ monthly shipment records in SQL and Python to find where deliveries fall behind, helping cut the late-delivery rate from 9% to 6% in one year",
+      "Build self-serve Tableau dashboards used by 35 managers to track on-time delivery across 12 warehouses without waiting on analyst requests",
+      "Present weekly findings to operations and product leads; one analysis led to new carrier cutoff times in 4 regions",
+      "Mentor 2 junior analysts on SQL and dashboard standards"
+     ]
+    },
+    {
+     "org": "Bluewater Logistics",
+     "location": "Columbus, OH",
+     "title": "Data Analyst",
+     "dates": "Mar 2022 – Dec 2023",
+     "bullets": [
+      "Set up automated data quality checks in SQL for shipment reporting, cutting reporting errors by 60%",
+      "Rebuilt the weekly carrier performance report in SQL, cutting its run time from 3 hours to 20 minutes",
+      "Answered about 40 ad hoc data requests per month from operations, finance and customer support"
+     ]
+    },
+    {
+     "org": "Maple Grove Retail",
+     "location": "Columbus, OH",
+     "title": "Junior Data Analyst",
+     "dates": "Jun 2020 – Feb 2022",
+     "bullets": [
+      "Analyzed 18 email and in-store campaigns with the marketing team and found that 2 customer segments drove most repeat purchases",
+      "Automated weekly sales reports in Excel for 40 stores, saving the team 6 hours per week",
+      "Cleaned and joined point-of-sale and loyalty data covering 250K customers",
+      "Moved 12 recurring reports from Excel to Power BI"
+     ]
+    },
+    {
+     "org": "Cedar Health Clinic",
+     "location": "Columbus, OH",
+     "title": "Operations Intern",
+     "dates": "Jun 2019 – Aug 2019",
+     "bullets": [
+      "Audited patient scheduling data and proposed a shared booking calendar that the front desk adopted to stop double bookings"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Projects",
+   "entries": [
+    {
+     "org": "Bike Share Demand Analysis (personal project)",
+     "location": "github.com/jrivera-example",
+     "title": "Python, pandas, scikit-learn",
+     "dates": "2023",
+     "bullets": [
+      "Analyzed 1.2M public bike-share trips to model hourly demand by station; the model predicted next-day demand within 15% for 80% of stations"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Education",
+   "entries": [
+    {
+     "org": "Lakeshore State University",
+     "location": "Cleveland, OH",
+     "title": "Bachelor of Science in Economics",
+     "dates": "May 2020",
+     "lines": [
+      "GPA: 3.6/4.0",
+      "Relevant Coursework: Econometrics, Statistics, Database Systems"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Skills",
+   "lines": [
+    "Data: SQL (advanced), Python (pandas, scikit-learn), Excel",
+    "Experimentation: A/B test design and analysis, regression",
+    "Visualization: Tableau, Power BI"
+   ]
+  },
+  {
+   "title": "Certifications",
+   "lines": [
+    "Tableau Desktop Specialist, Tableau, 2023"
+   ]
+  }
+ ]
+}
